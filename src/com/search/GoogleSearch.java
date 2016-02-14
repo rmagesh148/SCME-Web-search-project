@@ -22,8 +22,8 @@ public class GoogleSearch {
 	//static final String apiUrl = "https://ajax.googleapis.com/ajax/services/search/web";
 	static final String apiUrl = "https://www.googleapis.com/customsearch/v1?";
 	//static final int resultCount = 8;
-	static final String key="AIzaSyAxhChKtT6AFUPf4P5jRFrg4Uduc6GMgGk";
-	static final String cx = "006214109175033927711%3Atjtvr4wp2rc";
+	static final String key="AIzaSyAxhChKtT6AFUPf4P5jRFrg4Uduc6GMgGk1";
+	static final String cx = "006214109175033927711%3Atjtvr4wp2rc1";
 	static final String country = "countryUSA";
 	public ArrayList<SearchResult> search(String query) {
 		ArrayList<SearchResult> searchResults =  new ArrayList<SearchResult>();
